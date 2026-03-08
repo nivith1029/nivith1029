@@ -101,7 +101,7 @@ I care deeply about the "boring but important" parts: retrieval quality, stable 
 
 ---
 
-🔷 **Algocode** &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; 📍 Pune, India &nbsp;|&nbsp; `Aug 2020 – Jul 2022`
+🔷 **Altimetrik** &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; 📍 Pune, India &nbsp;|&nbsp; `Aug 2020 – Jul 2022`
 
 > Full-stack Django applications & internal tools · Data processing with Python + Spark · CI pipelines with Jenkins · AWS hosting and cloud workflows
 
