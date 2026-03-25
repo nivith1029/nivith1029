@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-Generative AI Engineer with **5+ years of experience** building production-grade AI systems across **supply chain, banking, healthcare, energy, manufacturing, and enterprise platforms**.
+Generative AI Engineer with **5+ years of experience** building production grade AI systems across **supply chain, banking, healthcare, energy, manufacturing, and enterprise platforms**.
 
-I build GenAI features that people can rely on day-to-day — turning messy documents and operational data into something searchable, wiring it into clean workflows that return accurate, grounded answers, and adding agent-style orchestration when the use case needs more than one step.
+I build GenAI features that people can rely on day to day turning messy documents and operational data into something searchable, wiring it into clean workflows that return accurate, grounded answers, and adding agent-style orchestration when the use case needs more than one step.
 
 I care deeply about the "boring but important" parts: retrieval quality, stable prompts, output validation, access control, and good logging/monitoring.
 
